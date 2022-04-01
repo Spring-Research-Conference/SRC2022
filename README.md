@@ -19,7 +19,8 @@ Technical Session I: Statistical methodology and applications in today’s scien
 3 PM to 4:30 PM
 Panel Discussion I: Careers in the academia and industry after obtaining a doctoral degree in Statistics
 
-Panelists: - Emily Casleton (Los Alamos)
+Panelists: 
+           - Emily Casleton (Los Alamos)
            - Nicole Pashley (Rutgers University)
            - Simon Mak (Duke University)
            - Jean Pouget-Abadie (Google)
