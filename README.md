@@ -1,4 +1,4 @@
-# SRC2022
+# SRC2022-Virtual Meeting
 May 19-20, 2022 (Thursday and Friday)
  
 ###### note all the time is in eastern daylight time (EDT)
@@ -14,7 +14,8 @@ Opening remarks
 
 1:15 PM to 2:45 PM Technical Session I: Statistical methodology and applications in today’s science, industry engineering 
 -	Junior researchers (students and post docs)
-           - 
+    
+    
 3 PM to 4:30 PM Panel Discussion I: Careers in the academia and industry after obtaining a doctoral degree in Statistics
 
 Panelists: 
