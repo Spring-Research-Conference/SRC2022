@@ -1,7 +1,7 @@
 # SRC2022
 May 19-20, 2022 (Thursday and Friday)
  
-# note all the time is in eastern daylight time (EDT)
+note all the time is in eastern daylight time (EDT)
  
 DAY 1 (May 19)
 --------------------
@@ -16,10 +16,16 @@ Keynote speech by C. F. Jeff Wu, Georgia Institute of Technology
 Technical Session I: Statistical methodology and applications in today’s science, industry engineering 
 -	Junior researchers (students and post docs)
  
+ 
+ - Emily Casleton (Los Alamos)
+           - Nicole Pashley (Rutgers University)
+           - Simon Mak (Duke University)
+           - Jean Pouget-Abadie (Google)
+           - 
 3 PM to 4:30 PM
 Panel Discussion I: Careers in the academia and industry after obtaining a doctoral degree in Statistics
 
-Panelists: -	
+Panelists: 
            - Emily Casleton (Los Alamos)
            - Nicole Pashley (Rutgers University)
            - Simon Mak (Duke University)
