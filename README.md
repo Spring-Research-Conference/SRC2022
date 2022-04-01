@@ -1,7 +1,7 @@
 # SRC2022
 May 19-20, 2022 (Thursday and Friday)
  
-note all the time is in eastern daylight time (EDT)
+###### note all the time is in eastern daylight time (EDT)
  
 DAY 1 (May 19)
 --------------------
