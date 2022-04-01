@@ -1,5 +1,8 @@
 # SRC2022-Virtual Meeting
 May 19-20, 2022 (Thursday and Friday)
+
+## Registration Link
+https://queensu.zoom.us/meeting/register/tJ0qf-Crpz8pEtwenH0usEkCZdBP0LMF7aBM
  
 ###### note all the time is in eastern daylight time (EDT)
  
