@@ -37,4 +37,4 @@ Panelists:
 1:30 PM to 3:00 PM Technical Session II: Statistical methodology and applications in today’s science, industry engineering 
 -	Junior researchers (students and post docs)
  
-Wrap up: 3:15 - 3:30 PM
+3:15 - 3:30 PM: Wrap Up
